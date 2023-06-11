@@ -24,7 +24,8 @@
     <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
     <a href="https://spring.io/" target="_blank"> <img src="https://www.nicepng.com/png/full/31-314820_logo-spring-spring-framework-logo-svg.png" alt="spring" height="50" />
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://www.brainspire.com/hubfs/asp.net-logo.png" alt="aspnet" height="50"/>
-    </p>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="aspnet" height="50"/>
+</p>
     
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="mysql" width="50" height="50"/>
